@@ -4,6 +4,12 @@
 - Implemented rotation on each refresh
 - Blacklisted used refresh tokens
 
+
 - Added proper cleanup on disconnect
 - Fixed closure references in event handlers
 - Reduced heap usage by ~40%
+
+
+- Added eager loading for relations
+- Implemented query batching
+- Response time: 450ms → 120ms
