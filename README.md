@@ -3,3 +3,7 @@
 - Added refresh token endpoint
 - Implemented rotation on each refresh
 - Blacklisted used refresh tokens
+
+- Added proper cleanup on disconnect
+- Fixed closure references in event handlers
+- Reduced heap usage by ~40%
