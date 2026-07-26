@@ -18,3 +18,7 @@
 - Added eager loading for relations
 - Implemented query batching
 - Response time: 450ms → 120ms
+
+- Documented all 24 endpoints
+- Added request/response schemas
+- Included authentication flows
