@@ -10,6 +10,11 @@
 - Reduced heap usage by ~40%
 
 
+- Wrote 12 test cases
+- Mocked Stripe webhooks
+- Coverage: 67% → 74%
+
+
 - Added eager loading for relations
 - Implemented query batching
 - Response time: 450ms → 120ms
