@@ -22,3 +22,7 @@
 - Documented all 24 endpoints
 - Added request/response schemas
 - Included authentication flows
+
+- Moved 200+ lines to service layer
+- Added proper DTOs
+- Controllers now only handle req/res mapping
