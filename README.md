@@ -31,3 +31,7 @@
 - Configured ArgoCD rollout strategy
 - Set 10% traffic shifting
 - Added auto-rollback on error rate > 2%
+
+- Patched CVE-2026-3421 in express
+- Updated bcrypt to v6.3.0
+- Ran npm audit fix --force (carefully)
