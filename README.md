@@ -26,3 +26,8 @@
 - Moved 200+ lines to service layer
 - Added proper DTOs
 - Controllers now only handle req/res mapping
+
+
+- Configured ArgoCD rollout strategy
+- Set 10% traffic shifting
+- Added auto-rollback on error rate > 2%
