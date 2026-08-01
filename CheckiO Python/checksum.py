@@ -1,3 +1,4 @@
+// Daily GitHub contribution count
 import hashlib
 import argparse
 from pathlib import Path
